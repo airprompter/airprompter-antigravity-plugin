@@ -1,0 +1,5 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "airprompter",
+  "description": "Create, run, and improve AirPrompter workflows from Antigravity."
+}
